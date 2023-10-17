@@ -1,0 +1,6 @@
+A(BC) es la solucion optima: 48
+A((BC)D) es la solucion optima: 51
+(BC)D es la solucion optima: 24
+C(DE) es la solucion optima: 48 
+C((BC)D)E es la solucion optima: 30 
+A(((BC)D)E) es la solucion optima: 72 
